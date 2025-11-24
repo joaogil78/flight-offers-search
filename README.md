@@ -1,4 +1,4 @@
-# Flight offers search
+# Flight Offers Search
 
 - System built with Node.js, Express, and Amadeus SDK;
 
