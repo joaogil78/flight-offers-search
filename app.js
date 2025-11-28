@@ -1,6 +1,10 @@
-import Amadeus from './node_modules/amadeus/lib/amadeus.js';
+/* import Amadeus from './node_modules/amadeus/lib/amadeus.js';
 import express from 'express';
-import dotenv from 'dotenv';
+import dotenv from 'dotenv'; */
+
+const Amadeus = require('amadeus');
+const express = require('express');
+const dotenv  = require('dotenv');
 
 dotenv.config();
 const app = express();
