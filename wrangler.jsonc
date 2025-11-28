@@ -1,5 +1,5 @@
 {
-    "name": "worker-name",
+    "name": "flight-offers-search",
     "compatibility_date": "2025-11-28",
     "main": "app.js",
     "assets": {
