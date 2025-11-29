@@ -1,4 +1,4 @@
-export const runtime = "edge";
+export const runtime = "nodejs";
 
 import Amadeus from './node_modules/amadeus/lib/amadeus.js';
 import express from 'express';
